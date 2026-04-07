@@ -53,3 +53,9 @@ android/local.properties
 
 # Google Maps API key (iOS)
 ios/Flutter/GoogleMapsKey.xcconfig
+
+# Firebase config (contains API keys)
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+android/app/google-services.json
+lib/firebase_options.dart
