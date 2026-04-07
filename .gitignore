@@ -48,5 +48,8 @@ app.*.map.json
 .env                                                                                                                                                                          
 lib/core/config/secrets.dart                                                                                                                                               
                                                                                                                                                                               
-# Google Maps API key (Android)                                                                                                                                               
-android/local.properties  
+# Google Maps API key (Android)
+android/local.properties
+
+# Google Maps API key (iOS)
+ios/Flutter/GoogleMapsKey.xcconfig
